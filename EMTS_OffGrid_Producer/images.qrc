@@ -1,0 +1,10 @@
+<RCC>
+   <qresource prefix="/images">
+      <file alias="background1.png">images/background1.png</file>
+	  <file alias="banniere1.png">images/banniere1.png</file>
+	  <file alias="solar.png">images/solar.png</file>
+	  <file alias="loc.jpg">images/loc.jpg</file>
+	  <file alias="battery3.png">images/battery3.png</file>
+	  <file alias="consCollective.png">images/consCollective.png</file>
+   </qresource>
+</RCC>
